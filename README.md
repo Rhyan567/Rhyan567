@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rhyan567
+- 👀 I’m interested in cyber security and machine learning
+- 🌱 I’m currently learning cyber security
+- 💞️ I’m looking to collaborate on helping with bugs and helping with port to Linux
+- 📫 How to reach me Discord: Rhyan567#3408
